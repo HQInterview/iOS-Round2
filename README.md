@@ -33,4 +33,5 @@ Coding will be shared over screenshare. Please do not write any code before scre
 ##### Prerequisite
 * Download, install, register in [ScreenHero app](http://screenhero.com/)
 * Add Josef as a contact - josef.nevoral@hotelquickly.com
-
+* In GitHub, fork this repository to you own account
+* The solution, after finished, should be send as pull request to original HQ repository.

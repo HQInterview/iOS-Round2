@@ -20,8 +20,6 @@ Coding will be shared over screenshare. Please do not write any code before scre
 	* {offerId} = 10736598
 	* {selectedVouchers} = []
 
-HELLLOOOO!! :-)
-
 ##### Bonus questions
 * If URL of webview changes, will application load content from new URL?
 * We would like to have a link in webview, that will open some native screen in application. Is it possible? How would you do it?

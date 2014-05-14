@@ -8,7 +8,9 @@ You have a [list of webviews](http://appcontent.hotelquickly.com/en/1/ios/index.
 
 Webviews with parameter ```cache == true ``` should be preloaded in background. When user opens a webview, content should be loaded from cache. If content is downloaded from network, not from cache, activityIndicator should be shown.
 
-Coding will be shared over screenshare. Please do not write any code before screensharing session.
+Please write clean & maintainable code to implement the relevant functionality. Simply writing correct code isn't enough.
+
+Coding will be shared over ScreenShare. Please do not write any code before screensharing session.
 
 ##### Specification:
 * Usage of thrid party libraries is allowed

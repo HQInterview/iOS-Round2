@@ -14,6 +14,7 @@ Coding will be shared over ScreenShare. Please do not write any code before scre
 
 ##### Specification:
 * Usage of thrid party libraries is allowed
+* Don't worry about design, just use standard ios design controls
 * Use key from json as a name of webview
 * Use this values for replacements in URLs:
 	* {userId} = 276
